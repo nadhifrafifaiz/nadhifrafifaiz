@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadhifrafifaiz
-- 👀 I’m interested in Web Delopment and Video Editing
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Web Delopment (React JS, Node JS)
+- 🌱 I’m currently learning Sequelize and Tailwind CSS
 - 📫 How to reach me, Email: nadhifrafifaiz@gmail.com || Instagram: nadhif_rafifaiz
 
 <!---
